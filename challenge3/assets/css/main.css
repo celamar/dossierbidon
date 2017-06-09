@@ -1,0 +1,79 @@
+
+
+body {
+  background-color: white;
+}
+
+
+.tab-content header {
+
+   margin-top:80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+  font-family: "",Helvetica,sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  line-height: 1.5;
+  margin: 0 0 1rem;
+  text-transform: uppercase;
+}
+/* texte pour les articles,  ne marche pas!!!  */
+
+.header{
+
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+	  height:500px;
+	  margin-bottom: 30px; 
+    margin-top: 300px;  
+}
+
+
+.fond_blanc{
+  background-color: #ffffff; 
+}
+
+.container{
+    padding-left: 0px;
+    padding-right: 0px;  
+    overflow:hidden;
+      
+}
+
+.navbar {                                         /*---------------Barre de naviguation---------------*/            
+    background: black;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+
+.active{
+   color: #000000;
+   background-color: #ffffff; 
+}    
+
+
+/* POUR LES POST */
+
+.post{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d8d8d8;
+  padding: 4rem
+
+}
+
+.post header,   .post p{
+  text-align: center;
+
+
+li {
+  display: inline;
+  list-style: none; /* pour enlever les puces sur IE7 */
+}
