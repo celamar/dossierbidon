@@ -1,2 +1,6 @@
 nouveau test
+<<<<<<< HEAD
 tibilibi
+=======
+choubidouwap
+>>>>>>> cd5c941d85b798904eee198be081ea5e7fae8b39
